@@ -5,10 +5,10 @@ permalink: /
 subtitle: M.S. student in Electrical and Computer Engineering, <a href='https://www.vanderbilt.edu/'>Vanderbilt University</a>
 
 # To show a photo: save it as assets/img/prof_pic.jpg and uncomment the four lines below.
-# profile:
-#   align: right
-#   image: prof_pic.jpg
-#   image_circular: false # crops the image to make it circular
+profile:
+  align: right
+  image: prof_pic.jpg
+  image_circular: false # crops the image to make it circular
 
 selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
