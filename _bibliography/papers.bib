@@ -6,6 +6,7 @@
   author   = {Zhang, Ziyang and others},
   journal  = {Manuscript under review},
   year     = {2026},
+  abstract = {Deep learning models for diabetic retinopathy (DR) grading often generalize poorly to unseen imaging domains, in part because predictions may exploit correlations specific to source datasets rather than retinal pathology. We address this challenge by constructing grading decisions from lesion evidence learned using only image severity labels. Clinical implications of DR grades provide multiple instance constraints that guide competitive learning of lesion and background prototypes at multiple scales. An additive ordinal scoring model then predicts severity exclusively from individual lesion prototype responses, explicitly connecting learned evidence with grading decisions without a global feature classification pathway. To improve the reliability of this evidence, we introduce teacher guided preservation under image degradations and spatial regularization against persistent coordinate preferences. Across six public DR datasets under a leave one domain out protocol, our method attains a mean quadratic weighted kappa of 0.761, outperforming the strongest competing method by 0.036. Localization and prototype removal analyses show that the learned responses align with retinal lesions and contribute to grading decisions. Experiments across five other prototype architectures and under image degradations further demonstrate the generality and robustness of the approach.},
   preview  = {lesion_prototypes_overview.png},
   selected = {true}
 }
