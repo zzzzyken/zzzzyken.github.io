@@ -7,7 +7,7 @@ first_name: Ziyang
 middle_name:
 last_name: Zhang
 contact_note: >
-  Email is the best way to reach me.
+  Email is the best way to reach me: <a href="mailto:kenzzzzy2002@gmail.com">kenzzzzy2002@gmail.com</a>
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Ziyang Zhang is an M.S. student in Electrical and Computer Engineering at Vanderbilt University, working on medical image analysis, domain generalization and interpretable deep learning.
 footer_text: >
